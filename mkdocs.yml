@@ -1,0 +1,16 @@
+site_name: University of Rochester Atmospheric Chemistry and Climate Group Documentation
+
+theme:
+  name: material
+
+nav:
+  - Getting Started: index.md
+  - Atmos Software Stack:
+      - Overview: Atmos-Stack/index.md
+      - Software: Atmos-Stack/software.md
+      - Usage notes: Atmos-Stack/usage.md
+  - Slurm:
+      - Overview: Slurm/index.md
+  - GEOS-Chem:
+      - Overview: GEOS-Chem/index.md
+
